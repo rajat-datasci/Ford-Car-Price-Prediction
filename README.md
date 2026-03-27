@@ -36,7 +36,8 @@ Dataset: Kaggle - Ford Car Price Dataset (by Adhurim Quku) [https://www.kaggle.c
 - Matplotlib  
 - Seaborn  
 - Scikit-learn
-- Scipy  
+- Scipy
+- Warnings  
 
 ---
 
