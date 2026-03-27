@@ -5,14 +5,14 @@
 This project builds a Machine Learning model to predict the price of Ford cars based on various features such as year, mileage, engine size, fuel type, and transmission.  
 The goal is to understand the key factors affecting car prices and build an accurate regression model using Linear Regression.
 
-Dataset: Kaggle - Ford Car Price Dataset (by Adhurim Quku)
+Dataset: Kaggle - Ford Car Price Dataset (by Adhurim Quku) [https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction/data]
 
 ---
 
-## Steps
+## Important Things Done
 
 1. Performed Exploratory Data Analysis (EDA) to understand data distribution and relationships  
-2. Cleaned data by handling missing values and outliers  
+2. Cleaned data by handling outliers  
 3. Applied Feature Engineering for better model performance  
 4. Performed Encoding (categorical variables) and Scaling  
 5. Trained Linear Regression model  
@@ -35,20 +35,20 @@ Dataset: Kaggle - Ford Car Price Dataset (by Adhurim Quku)
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
+- Scikit-learn
+- Scipy  
 
 ---
 
 ## Conclusion
 
 The model performs well with similar Train and Test scores, indicating no overfitting.  
-Key factors like mileage, engine size, and year significantly impact car prices.
 
 ---
 
 ## How to Run
 
 1. Clone the repository  
-2. Install required libraries  
-3. Run the Jupyter Notebook / Python script  
+2. Install required libraries 
+3. Run the Jupyter Notebook
 
